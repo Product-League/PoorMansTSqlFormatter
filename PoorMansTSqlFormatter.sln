@@ -17,8 +17,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorMansTSqlFormatterPlugin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorMansTSqlFormatterLib_35", "PoorMansTSqlFormatterLib\PoorMansTSqlFormatterLib_35.csproj", "{DBBDE1C0-D108-4B68-A7D2-C1CE55BBC704}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorMansTSqlFormatterJSLib", "PoorMansTSqlFormatterJSLib\PoorMansTSqlFormatterJSLib.csproj", "{944E63B9-65A4-4139-BD42-096E1B15EF86}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|PureDotNet = Debug|PureDotNet
@@ -69,14 +67,6 @@ Global
 		{DBBDE1C0-D108-4B68-A7D2-C1CE55BBC704}.Release|PureDotNet.Build.0 = Release|Any CPU
 		{DBBDE1C0-D108-4B68-A7D2-C1CE55BBC704}.Release|x64.ActiveCfg = Release|Any CPU
 		{DBBDE1C0-D108-4B68-A7D2-C1CE55BBC704}.Release|x86.ActiveCfg = Release|Any CPU
-		{944E63B9-65A4-4139-BD42-096E1B15EF86}.Debug|PureDotNet.ActiveCfg = Release|Any CPU
-		{944E63B9-65A4-4139-BD42-096E1B15EF86}.Debug|PureDotNet.Build.0 = Release|Any CPU
-		{944E63B9-65A4-4139-BD42-096E1B15EF86}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{944E63B9-65A4-4139-BD42-096E1B15EF86}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{944E63B9-65A4-4139-BD42-096E1B15EF86}.Release|PureDotNet.ActiveCfg = Release|Any CPU
-		{944E63B9-65A4-4139-BD42-096E1B15EF86}.Release|PureDotNet.Build.0 = Release|Any CPU
-		{944E63B9-65A4-4139-BD42-096E1B15EF86}.Release|x64.ActiveCfg = Release|Any CPU
-		{944E63B9-65A4-4139-BD42-096E1B15EF86}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
